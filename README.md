@@ -1,4 +1,4 @@
-# Name Guessing Game
+# Number Guessing Game
 
 Welcome to the Name Guessing Game repository! This simple game challenges players to guess the name of a person or character based on a series of clues provided.
 
